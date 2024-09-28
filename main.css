@@ -15,12 +15,12 @@ body {
 }
 main {
   width: 60%;
+  margin-top: 100px;
+  margin-bottom: 100px;
 }
 main .row {
   border-radius: 10px;
   overflow: hidden;
-  margin-top: 100px;
-  margin-bottom: 100px;
 }
 main .topic {
   background-color: royalblue;
